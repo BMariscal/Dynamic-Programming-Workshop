@@ -43,3 +43,10 @@ An assortment of problems of the more difficult variety.
 4. [Wildcard / regex matching](https://leetcode.com/problems/wildcard-matching/) (Can be solved with dynamic programming, but I think there are more efficient non-DP solutions)  
 
 For any of these problems, I would highly recommend looking at the discussion forum on Leetcode once you've finished your solution. I've learned more from people on there than most other sources combined.
+
+
+### Projects
+
+* [Dynamic Programming projects](http://personal.denison.edu/~kretchmar/cs271/ProjectHandout.pdf)
+* [Rod Cutting problem solution](http://personal.denison.edu/~kretchmar/271/DPRodCuttingExample.pdf)
+* [Etc.](https://web.cs.wpi.edu/~guttman/cs2223/hw4.pdf)
